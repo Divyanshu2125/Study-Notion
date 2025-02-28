@@ -176,22 +176,22 @@ const Footer = () => {
             <div className="flex ">
               <span> Made with ❤️ </span>
                {" "}
-              <Link to='https://github.com/vivek-panchal' target="__blank" className="text-white hover:underline mr-1"
+              <Link to='https://github.com/Divyanshu2125' target="__blank" className="text-white hover:underline mr-1"
               >
-                Vivek Panchal
+                Divyanshu Kaushal
               </Link>
             </div>
             <span> © 2024 Studynotion</span>
           </div>
 
           <div className="flex items-center">
-            <a href="https://www.linkedin.com/in/vivekpanchal2608/" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/divyanshu-kaushal-80b0a9262/" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
               <ImLinkedin2 size={17} />
             </a>
             <a href="https://www.github.com/vivek-panchal" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
               <ImGithub size={17} />
             </a>
-            <a href="https://twitter.com/Vivekpanchaal" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/DivyanshuK82514" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
               <ImTwitter size={17} />
             </a>
           </div>
